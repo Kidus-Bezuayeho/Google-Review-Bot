@@ -1,5 +1,3 @@
-# Google-Review-Bot
-
 # 🧠 Google Review Bot
 
 Automate your **Google Business Profile review management**.  
