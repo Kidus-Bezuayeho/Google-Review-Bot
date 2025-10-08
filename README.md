@@ -19,6 +19,8 @@ Additional features:
 
 ---
 
-## 🧩 Architecture
+## ⏰ Scheduling
 
-ma
+The main script runs automatically **every 24 hours at 12:00 PM** to check for new reviews and process them according to the rating-based workflow.
+
+---
